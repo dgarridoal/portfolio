@@ -1,0 +1,379 @@
+{
+  "basics": {
+    "name": "Diego Garrido Alvial",
+    "label": "Ingeniero Civil en Informática",
+    "image": "https://avatars.githubusercontent.com/u/83986760?s=400&u=81155fa793bb43daaf278df28affd7d1187f0c82&v=4",
+    "email": "dgarridoal@gmail.com",
+    "url": "https://midu.dev",
+    "summary": "Egresado de la Universidad del Bío-Bío, Chile, capacitado para comprender problemáticas organizacionales en el ámbito de la informática y, a partir de ello, plantear y desarrollar soluciones pertinentes. Además, realizar trabajo colaborativamente, proactiva, responsable y autónoma, respetando la diversidad de quienes conforman los equipos en que participa.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Parral",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "dgarridoal",
+        "url": "https://linkedin.com/in/dgarridoal"
+      },
+      {
+        "network": "GitHub",
+        "username": "dgarridoal",
+        "url": "https://github.com/dgarridoal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Agrocomercial Mutupin",
+      "position": "Desarrollador Full Stack - Freelancer",
+      "url": "https://agrocomercialmutupin.cl/",
+      "startDate": "2024-01-15",
+      "endDate": "2024-02-29",
+      "summary": "Dirigí el desarrollo de una plataforma integral para gestionar la variedad de frutas y sus respectivos procesos dentro de la empresa, culminando en la generación automatizada de informes detallados sobre las ventas realizadas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "SENEGOCIA",
+      "position": "Desarrollador Frontend- Práctica profesional",
+      "url": "https://cl.senegocia.com/",
+      "startDate": "2023-09-15",
+      "endDate": "2023-11-15",
+      "summary": "Apoyé como practicante en el desarrollo de una plataforma de la empresa en su nueva versión en el apartado de ventas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Proyecto FONDEF",
+      "position": "Desarrollador Full Stack - Freelancer",
+      "url": "https://www.conicyt.cl/fondef/sobre-fondef/que-es-fondef/",
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01",
+      "summary": "Concebí y desarrollé una plataforma de análisis avanzado utilizando Power BI, focalizada en el monitoreo del estado de los cultivos de arándanos a través de drones en zonas específicas de la región de Ñuble, Chile.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Nilahue: Parral",
+      "position": "Desarrollador Full Stack - Freelancer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-05-01",
+      "summary": "Desarrollé una plataforma de arqueo de inventario para la oficina de ventas de boletos de buses Nilahue ubicada en Parral e implementé una solución innovadora que optimizó significativamente el proceso de rendición de cuentas al finalizar el día laboral, logrando un ahorro notable de 2 horas de tiempo.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Universidad del Bío-Bío",
+      "position": "Base de Datos",
+      "url": "https://organization.com/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-18",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    },
+    {
+      "organization": "Universidad del Bío-Bío",
+      "position": "Ingeniería de Software",
+      "url": "https://organization.com/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-01-18",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    },
+    {
+      "organization": "Universidad del Bío-Bío",
+      "position": "Gestión de Proyectos de Software",
+      "url": "https://organization.com/",
+      "startDate": "2024-04-01",
+      "endDate": "2024-07-15",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    },
+    {
+      "organization": "Universidad del Bío-Bío",
+      "position": "Base de Datos",
+      "url": "https://organization.com/",
+      "startDate": "2022-09-01",
+      "endDate": "2023-01-15",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Bío-Bío",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Ingeniería Civil en Informática",
+      "studyType": "Universitario",
+      "startDate": "2018-03-01",
+      "endDate": "2024-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo escritorio",
+        "Frontend",
+        "Backend",
+        "Fullstack",
+        "Desarrollo móvil"
+      ]
+    },
+    {
+      "name": "Dart",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo escritorio",
+        "Frontend",
+        "Desarrollo móvil"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo escritorio",
+        "Frontend",
+        "Desarrollo móvil"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos",
+        "NoSQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Virtualización"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SMAccesorios - Frontend",
+      "description": "Plataforma de venta realizada como proyecto para la universidad",
+      "highlights": [],
+      "url": "https://github.com/dgarridoal/sm-accesorios-v2"
+    },
+    {
+      "name": "SMAccesorios - Backend",
+      "description": "Backend de la plataforma de venta realizada como proyecto para la universidad",
+      "highlights": [],
+      "url": "https://github.com/dgarridoal/proyect-backend-sm"
+    },
+    {
+      "name": "ICInf UBB Web",
+      "description": "Web realizada en práctica profesional I.",
+      "highlights": [],
+      "url": "https://github.com/dgarridoal/web_ubb"
+    }
+  ]
+}
